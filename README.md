@@ -1,4 +1,3 @@
-# Java
 package Java_08;
 class cbbb{
 	double x;
